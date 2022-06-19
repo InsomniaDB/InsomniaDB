@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @InsomniaDB
+- 👀 I’m interested in software development as a student currently, looking into adding projects and making an online presence. :)
+- 🌱 I’m currently learning and practicing C#, Java, Swift, SQL, as well as Web Dev. sorts like HTML and CSS.
+- 💞️ I’m looking to collaborate on really anything that could use a bit of extra eyes or help at all!
+- 📫 How to reach me: doylebn@gmail.com
